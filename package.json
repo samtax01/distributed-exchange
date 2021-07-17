@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/samtax01/distributed-exchange/issues"
   },
-  "homepage": "https://github.com/samtax01/distributed-exchange#readme"
+  "homepage": "https://github.com/samtax01/distributed-exchange#readme",
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.12",
+    "grenache-nodejs-link": "^0.7.12"
+  }
 }
