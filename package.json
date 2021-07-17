@@ -1,0 +1,22 @@
+{
+  "name": "bitfinex",
+  "version": "1.0.0",
+  "description": "simplified distributed exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samtax01/distributed-exchange.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "samson oyetola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samtax01/distributed-exchange/issues"
+  },
+  "homepage": "https://github.com/samtax01/distributed-exchange#readme"
+}
